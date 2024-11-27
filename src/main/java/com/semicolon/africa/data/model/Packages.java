@@ -12,7 +12,7 @@ import java.util.List;
 
 @Data
 @Document
-public class Package {
+public class Packages {
     @Id
     private String id;
     @DBRef
